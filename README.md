@@ -34,7 +34,7 @@ Install the Japanese language pack via composer is never easier.
 **Install Japanese pack**:
 
 ```
-composer require mageplaza/magento-2-japanese-language-pack:*
+composer require mageplaza/magento-2-japanese-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy ja-jp
 
@@ -44,7 +44,7 @@ php bin/magento setup:static-content:deploy ja-jp
 **Update  Japanese pack**:
 
 ```
-composer update mageplaza/magento-2-japanese-language-pack:*
+composer update mageplaza/magento-2-japanese-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy ja-jp
 
