@@ -2730,6 +2730,7 @@ Payment,支払,module,Magento_Checkout
 "Not yet calculated",未確定,module,Magento_Checkout
 "We received your order!",ご注文を受け付けいたしました！,module,Magento_Checkout
 "Thank you for your purchase!",ご購入ありがとうございました！,module,Magento_Checkout
+"Go to Checkout",レジへ進む,module,Magento_Checkout
 "Terms and Conditions",契約条件,module,Magento_CheckoutAgreements
 "Add New Condition",新しい条件を追加,module,Magento_CheckoutAgreements
 "Save Condition",条件を保存,module,Magento_CheckoutAgreements
