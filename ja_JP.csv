@@ -2731,6 +2731,9 @@ Payment,支払,module,Magento_Checkout
 "We received your order!",ご注文を受け付けいたしました！,module,Magento_Checkout
 "Thank you for your purchase!",ご購入ありがとうございました！,module,Magento_Checkout
 "Go to Checkout",レジへ進む,module,Magento_Checkout
+"View and edit cart",表示およびカートを編集,module,Magento_Checkout
+"Item in Cart",カートの中の商品,module,Magento_Checkout
+"Items in Cart",点の商品,module,Magento_Checkout
 "Terms and Conditions",契約条件,module,Magento_CheckoutAgreements
 "Add New Condition",新しい条件を追加,module,Magento_CheckoutAgreements
 "Save Condition",条件を保存,module,Magento_CheckoutAgreements
@@ -6316,6 +6319,7 @@ Partners,パートナーズ,module,Magento_Marketplace
 "Read More",もっと読む,module,Magento_Marketplace
 "Partner Page",パートナーページ,module,Magento_Marketplace
 "No partners were found",パートナーが見つかりません,module,Magento_Marketplace
+"Find Partners & Extensions",パートナーとエクステンションを探す,module,Magento_Marketplace
 Synchronize,同期,module,Magento_MediaStorage
 "Synchronizing %1 to %2",%1と%2を同期,module,Magento_MediaStorage
 Synchronizing...,同期中...,module,Magento_MediaStorage
