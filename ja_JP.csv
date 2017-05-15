@@ -571,7 +571,7 @@ System,システム,module,Magento_Backend
 "Store view doesn't exist",ストアビューが存在しません,module,Magento_Backend
 "Before modifying the store view code please make sure it is not used in index.php.",ストアヴューを変更する前に、inde.php内で使われてないことを確認してください。,module,Magento_Backend
 New,新規,module,Magento_Backend
-"All Stores","All Stores",module,Magento_Backend
+"All Stores",すべてのストア,module,Magento_Backend
 "You saved the website.",ウェブサイトを保存しました。,module,Magento_Backend
 "The default store cannot be disabled","The default store cannot be disabled",module,Magento_Backend
 "You saved the store view.",ストアヴューを保存しました。,module,Magento_Backend
