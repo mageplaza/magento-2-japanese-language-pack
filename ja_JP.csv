@@ -122,12 +122,12 @@ Customers,顧客,module,Magento_AdvancedCheckout
 "You removed the item.",アイテムを削除しました。,module,Magento_AdvancedCheckout
 "You added %1 to your shopping cart.","%1 をカートに追加しました",module,Magento_AdvancedCheckout
 "You cannot add a product.",製品を追加することはできません。,module,Magento_AdvancedCheckout
-"Order by SKU",SKUによる注文,module,Magento_AdvancedCheckout
+"Order by SKU",商品番号順,module,Magento_AdvancedCheckout
 "The SKU was not found in the catalog.",SKUはカタログに見つかりませんでした。,module,Magento_AdvancedCheckout
 "Availability: Out of stock.",在庫状況：在庫切れです。,module,Magento_AdvancedCheckout
 "We don't have as many of these as you want.",要求される数量を持っていません。,module,Magento_AdvancedCheckout
 "You can't add this many to your cart.",カートに多く商品を追加することができません。,module,Magento_AdvancedCheckout
-"You need to choose options for your item.",商品のためにオプションを選択しなければなりません。,module,Magento_AdvancedCheckout
+"You need to choose options for your item.",オプションを選択しなければなりません。,module,Magento_AdvancedCheckout
 "We can't add the item to your cart.",ショッピングカートにアイテムを追加できません。,module,Magento_AdvancedCheckout
 "Please enter an actual number in the ""Qty"" field.","実際の数を ""Qty"" フィールドに入力してください。",module,Magento_AdvancedCheckout
 "This product is assigned to another website.",この商品は他のウェブサイトに割り当てられています。,module,Magento_AdvancedCheckout
@@ -182,7 +182,7 @@ Edit,編集,module,Magento_AdvancedCheckout
 "Remove item",商品を削除,module,Magento_AdvancedCheckout
 "Products Requiring Attention",注意が必要な製品,module,Magento_AdvancedCheckout
 "Add to Cart",カートに入れる,module,Magento_AdvancedCheckout
-Sku,Sku,module,Magento_AdvancedCheckout
+Sku,商品番号,module,Magento_AdvancedCheckout
 File,ファイル,module,Magento_AdvancedCheckout
 "File extensions allowed: .csv","許可されるファイル拡張子: .csv",module,Magento_AdvancedCheckout
 "Add Row",行を追加,module,Magento_AdvancedCheckout
