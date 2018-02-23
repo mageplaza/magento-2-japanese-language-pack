@@ -1,6 +1,6 @@
 ## Magento 2 Japanese Language Pack
 
-**Magento 2 Japanese Language Pack** is totally free translation guide for every eCommerce stores. The language package is a critical documentation if you want to translate from English to Japanese. As you can see, although English has been becoming the most popular language in the world, should use a native tongue when you are working at any country. Not only create good impression from the audience but you will not have any difficulty in the exchange.
+**Magento 2 Japanese Language Pack** is totally free translation guide for every eCommerce stores. The language package is a critical documentation if you want to translate from English to Japanese. As you can see, although English has been becoming the most popular language in the world, presenting native language in each country is still a must. Not only does this create good impression from the audience but you will not have any difficulty in the exchange.
 
 Read more [Magento 2 Japanese Language Pack](https://www.mageplaza.com/magento-2-japanese-language-pack.html)
 
@@ -136,6 +136,7 @@ Contribute to this language at https://crowdin.com/project/magento-2/ja
 - Magento v2.0.13
 - Magento v2.0.14
 - Magento v2.0.15
+- Magento v2.0.16
 - Magento v2.1.0
 - Magento v2.1.1
 - Magento v2.1.2
@@ -145,6 +146,10 @@ Contribute to this language at https://crowdin.com/project/magento-2/ja
 - Magento v2.1.6
 - Magento v2.1.7
 - Magento v2.1.8
+- Magento v2.1.10
+- Magento v2.2.0
+- Magento v2.2.1
+- Magento v2.2.2
 
 
 
