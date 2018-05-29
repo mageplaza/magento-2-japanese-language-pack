@@ -8348,6 +8348,7 @@ Action,アクション,module,Magento_Reports
 Report,レポート,module,Magento_Reports
 Description,概要,module,Magento_Reports
 undefined,未定義,module,Magento_Reports
+"Item in Cart","Item in Cart",module,Magento_Reports
 "Save Review",レビューの保存,module,Magento_Review
 "New Review",新しいレビュー,module,Magento_Review
 "Review Details",レビュー詳細,module,Magento_Review
