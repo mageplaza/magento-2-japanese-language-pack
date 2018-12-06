@@ -1,20 +1,20 @@
 "All","全て",module,Magento_AdminGws
 "None","なし",module,Magento_AdminGws
 "Allowed Scopes","許可されたスコープ",module,Magento_AdminGws
-"More permissions are needed to delete the ""%1"" item.","""%1"" 商品を削除するにはさらに多くの権限が必要です。",module,Magento_AdminGws
+"More permissions are needed to delete the ""%1"" item.","""%1"" 商品を削除する権限がありません。権限の設定を変更する必要があります。",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","いくつかのルールアップデートを適用するには、さらに多くの権限が必要です。",module,Magento_AdminGws
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","このエンティティは、ストアビューに割り当てられる必要があります。エンティティの割り当てを確認して、再度お試し下さい。",module,Magento_AdminGws
-"Orders can only be completed in an active store. Verify the store and try again.","注文は、アクティブなストアでのみ完了することができます。 ストアを確認して、再度お試し下さい。",module,Magento_AdminGws
-"This item needs to be assigned to a store view. Assign item and try again.","このアイテムはストアビューに割り当てられる必要があります。アイテムを割り当てて再度お試し下さい。",module,Magento_AdminGws
-"More permissions are needed to save this item.","このアイテムを保存するにはさらに多くの権限が必要です。",module,Magento_AdminGws
-"More permissions are needed to delete this item.","このアイテムを削除するにはさらに多くの権限が必要です。",module,Magento_AdminGws
-"More permissions are needed to view this item.","このアイテムを表示するにはさらに多くの権限が必要です。",module,Magento_AdminGws
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","ストアビューにエンティティを割り当てる必要があります。エンティティの割り当てを確認後、もう一度やり直してください。",module,Magento_AdminGws
+"Orders can only be completed in an active store. Verify the store and try again.","アクティブなストアのみで注文を完了することができます。 ストアを確認して、再度お試し下さい。",module,Magento_AdminGws
+"This item needs to be assigned to a store view. Assign item and try again.","このアイテムはストアビューに割り当てる必要があります。アイテムを割り当てて再度お試し下さい。",module,Magento_AdminGws
+"More permissions are needed to save this item.","このアイテムを保存する権限がありません。権限の設定を変更する必要があります。",module,Magento_AdminGws
+"More permissions are needed to delete this item.","このアイテムを削除する権限がありません。権限の設定を変更する必要があります。",module,Magento_AdminGws
+"More permissions are needed to view this item.","このアイテムの参照権限がありません。権限の設定を変更する必要があります。",module,Magento_AdminGws
 "At least one website or store group needs to be selected. Select and try again.","少なくとも1つの店舗もしくは店舗グループを選択する必要があります。選択して再度お試し下さい。",module,Magento_AdminGws
-"More permissions are needed to set All Scopes to a Role.","すべてのスコープをロールに設定するには、さらに多くの権限が必要です。",module,Magento_AdminGws
+"More permissions are needed to set All Scopes to a Role.","すべての範囲のアクセス権を有効にするには、より多くの権限が必要です。",module,Magento_AdminGws
 "The ""%1"" website ID is incorrect. Verify the website ID and try again.","""%1"" ウェブサイトIDが正しくありません。ウェブサイトIDを確認して再度お試し下さい。",module,Magento_AdminGws
-"You need more permissions to access website ""%1"".","ウェブサイト""%1"" にアクセスするにはさらに多くの権限が必要です。",module,Magento_AdminGws
+"You need more permissions to access website ""%1"".","ウェブサイト""%1"" にアクセスする権限がありません。権限の設定を変更する必要があります。",module,Magento_AdminGws
 "The ""%1"" store ID is incorrect. Verify the store ID and try again.","""%1"" 店舗IDが正しくありません。店舗IDを確認して再度お試し下さい。",module,Magento_AdminGws
-"More permissions are needed to save this setting.","この設定を保存するにはさらに多くの権限が必要です。",module,Magento_AdminGws
+"More permissions are needed to save this setting.","この設定を保存する権限がありません。権限の設定を変更する必要があります。",module,Magento_AdminGws
 "Role Scopes","権限範囲",module,Magento_AdminGws
 "Custom","カスタム",module,Magento_AdminGws
 "Read Details","詳細を読む",module,Magento_AdminNotification
@@ -34,16 +34,16 @@
 "Total of %1 record(s) have been removed.","合計%1件のレコードが削除されました",module,Magento_AdminNotification
 "We couldn't remove the messages because of an error.","エラーのためにメッセージを削除できませんでした",module,Magento_AdminNotification
 "The message has been removed.","メッセージを削除しました。",module,Magento_AdminNotification
-"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","最近のシステム通知をすべて表示して解決しました。 通知警告をクリアするには、Webページを更新してください。",module,Magento_AdminNotification
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","最新のシステム通知をすべて表示しました。 通知をクリアするには、Webページを更新してください。",module,Magento_AdminNotification
 "1 Hour","1時間",module,Magento_AdminNotification
 "2 Hours","2時間",module,Magento_AdminNotification
 "6 Hours","6時間",module,Magento_AdminNotification
 "12 Hours","12時間",module,Magento_AdminNotification
 "24 Hours","24時間",module,Magento_AdminNotification
-"critical","重要",module,Magento_AdminNotification
+"critical","致命的な",module,Magento_AdminNotification
 "major","メジャー",module,Magento_AdminNotification
 "minor","マイナー",module,Magento_AdminNotification
-"notice","お知らせ",module,Magento_AdminNotification
+"notice","通知",module,Magento_AdminNotification
 "Wrong message type","不正なメッセージ種別",module,Magento_AdminNotification
 "Wrong notification ID specified.","間違ったお知らせIDが指定されました",module,Magento_AdminNotification
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}}は開発環境でBase UnsecureURL / Base Secure URLを宣言するのに推奨されません。 Magentoの<a href=""%1"">設定</a>にてこの値を変更することを強く推奨します。",module,Magento_AdminNotification
@@ -53,7 +53,7 @@
 "Synchronization of media storages has been completed.","メディア保管場所の同期が終了しました。",module,Magento_AdminNotification
 "Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","ウェブサーバーは誤って設定されており重要なファイルに権限のないアクセスを許可します。 ホストプロバイダーに連絡してください。",module,Magento_AdminNotification
 "System Messages:","システムメッセージ：",module,Magento_AdminNotification
-"Critical System Messages","クリティカルなシステムメッセージ",module,Magento_AdminNotification
+"Critical System Messages","致命的なシステムメッセージ",module,Magento_AdminNotification
 "Major System Messages","メジャーなシステムメッセージ",module,Magento_AdminNotification
 "System messages","システムメッセージ",module,Magento_AdminNotification
 "Close","閉じる",module,Magento_AdminNotification
@@ -62,7 +62,7 @@
 "Show Toolbar","ツールバーを表示",module,Magento_AdminNotification
 "Show List","リスト表示",module,Magento_AdminNotification
 "Use HTTPS to Get Feed","HTTPSを使ってフィードを得る",module,Magento_AdminNotification
-"Update Frequency","更新間隔",module,Magento_AdminNotification
+"Update Frequency","更新頻度",module,Magento_AdminNotification
 "Last Update","最終更新",module,Magento_AdminNotification
 "Severity","重要度",module,Magento_AdminNotification
 "Date Added","登録日",module,Magento_AdminNotification
@@ -89,12 +89,12 @@
 "SKU","商品番号",module,Magento_AdvancedCheckout
 "Recently Compared Products (%1)","最近比較された製品 (%1)",module,Magento_AdvancedCheckout
 "Recently Viewed Products (%1)","最近見た製品 (%1)",module,Magento_AdvancedCheckout
-"Add to Shopping Cart by SKU","SKUによりショッピングカートに追加",module,Magento_AdvancedCheckout
+"Add to Shopping Cart by SKU","商品番号によりショッピングカートに追加",module,Magento_AdvancedCheckout
 "Add to Shopping Cart","ショッピングカートに追加",module,Magento_AdvancedCheckout
 "Wish List (%1)","ほしい物リスト（%1）",module,Magento_AdvancedCheckout
 "Apply","適用",module,Magento_AdvancedCheckout
 "Configure","構成",module,Magento_AdvancedCheckout
-"Add to Order by SKU","SKUによる注文の追加",module,Magento_AdvancedCheckout
+"Add to Order by SKU","商品番号による注文の追加",module,Magento_AdvancedCheckout
 "Add to Order","注文に追加",module,Magento_AdvancedCheckout
 "Add Products to Order","注文する商品を追加する",module,Magento_AdvancedCheckout
 "<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<span id = ""sku-attention-num"">%1</span>製品に注意が必要です。</span>",module,Magento_AdvancedCheckout
@@ -111,7 +111,7 @@
 "Shopping Cart","カート",module,Magento_AdvancedCheckout
 "An error occurred. For details, see the error log.","エラーが発生しました。 詳細については、エラーログをご覧下さい。",module,Magento_AdvancedCheckout
 "You do not have access to this.","これにアクセスできません。",module,Magento_AdvancedCheckout
-"Orders can only be completed in an active store. Verify the store and try again.","注文は、アクティブなストアでのみ完了することができます。 ストアを確認して、再度お試し下さい。",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.","アクティブなストアのみで注文を完了することができます。 ストアを確認して、再度お試し下さい。",module,Magento_AdvancedCheckout
 "The ordered item needs to be loaded. Load the item and try again.","注文された商品を読み込む必要があります。商品を読み込んで再度お試し下さい。",module,Magento_AdvancedCheckout
 "The quote item ID needs to be received. Set the ID and try again.","見積商品IDを受け取る必要があります。IDを設定して再度お試し下さい。",module,Magento_AdvancedCheckout
 "The quote item needs to be loaded. Load the item and try again.","見積商品IDを読み込む必要があります。商品を読み込んで再度お試し下さい。",module,Magento_AdvancedCheckout
@@ -124,7 +124,7 @@
 "You added %1 to your shopping cart.","%1 をカートに追加しました",module,Magento_AdvancedCheckout
 "You cannot add a product.","製品を追加することはできません。",module,Magento_AdvancedCheckout
 "Order by SKU","商品番号順",module,Magento_AdvancedCheckout
-"The SKU was not found in the catalog.","SKUはカタログに見つかりませんでした。",module,Magento_AdvancedCheckout
+"The SKU was not found in the catalog.","商品番号はカタログに見つかりませんでした。",module,Magento_AdvancedCheckout
 "Availability: Out of stock.","在庫状況：在庫切れです。",module,Magento_AdvancedCheckout
 "We don't have as many of these as you want.","要求される数量を持っていません。",module,Magento_AdvancedCheckout
 "You can't add this many to your cart.","カートに多く商品を追加することができません。",module,Magento_AdvancedCheckout
@@ -136,7 +136,7 @@
 "You cannot upload this file.","このファイルはアップロードできません。",module,Magento_AdvancedCheckout
 "The file is empty.","ファイルは空です。",module,Magento_AdvancedCheckout
 "You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","商品SKUを入力していません。 SKUの製品を追加するには、<a href=""%1"">ここをクリック</a>してください。",module,Magento_AdvancedCheckout
-"You have not entered a product SKU.","商品SKUを入力していません。",module,Magento_AdvancedCheckout
+"You have not entered a product SKU.","商品番号を入力していません。",module,Magento_AdvancedCheckout
 "We can't add a product to cart by id ""%1"".","id ""%1"" でカートに商品を追加できません。",module,Magento_AdvancedCheckout
 "Something went wrong while reordering this product.","この商品の再注文中に何か問題が発生しました。",module,Magento_AdvancedCheckout
 "We can't find this wish list.","このお気に入りリストが見つかりません。",module,Magento_AdvancedCheckout
@@ -144,10 +144,10 @@
 "You added %1 products to your shopping cart.","ショッピングカートに %1 の商品を追加しました。",module,Magento_AdvancedCheckout
 "%1 product requires your attention.","%1製品に注意が必要です。",module,Magento_AdvancedCheckout
 "%1 products require your attention.","%1製品に注意が必要です。",module,Magento_AdvancedCheckout
-"Yes, for Specified Customer Groups","Yes, for Specified Customer Groups",module,Magento_AdvancedCheckout
+"Yes, for Specified Customer Groups","はい。指定された顧客グループのためです。",module,Magento_AdvancedCheckout
 "Yes, for Everyone","はい、誰にでも",module,Magento_AdvancedCheckout
 "No","No",module,Magento_AdvancedCheckout
-"The file is corrupt and can't be used.","ファイルが壊れていて使用できません。",module,Magento_AdvancedCheckout
+"The file is corrupt and can't be used.","ファイルが破損しているため、使用できません。",module,Magento_AdvancedCheckout
 "Please upload the file in .csv format.",".csv形式でファイルをアップロードしてください。",module,Magento_AdvancedCheckout
 "%1 item(s) need your attention.","注意が必要なアイテムが%1あります。",module,Magento_AdvancedCheckout
 "Apply Coupon Code","クーポンを適用",module,Magento_AdvancedCheckout
@@ -185,7 +185,7 @@
 "Add to Cart","カートに入れる",module,Magento_AdvancedCheckout
 "Sku","商品番号",module,Magento_AdvancedCheckout
 "File","ファイル",module,Magento_AdvancedCheckout
-"File extensions allowed: .csv","許可されるファイル拡張子: .csv",module,Magento_AdvancedCheckout
+"File extensions allowed: .csv","使用可能なファイル拡張子: .csv",module,Magento_AdvancedCheckout
 "Add Row","行を追加",module,Magento_AdvancedCheckout
 "Remove Row","行を削除",module,Magento_AdvancedCheckout
 "Add Products By SKU","SKUによる製品の追加",module,Magento_AdvancedCheckout
@@ -208,8 +208,8 @@
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","エンティティのタイプモデルは　\Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType のインスタンスでなければなりません。",module,Magento_AdvancedPricingImportExport
 "There are no product types available for export","エクスポートできる商品種別がありません",module,Magento_AdvancedPricingImportExport
 "%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","%1 クラスは \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface　を実装していません",module,Magento_AdvancedRule
-"Sales Rule","セールスルール",module,Magento_AdvancedSalesRule
-"Index sales rule","セールスルールのインデックス",module,Magento_AdvancedSalesRule
+"Sales Rule","販売ルール",module,Magento_AdvancedSalesRule
+"Index sales rule","販売ルールのインデックス",module,Magento_AdvancedSalesRule
 "Related Search Terms","関連する検索キーワード",module,Magento_AdvancedSearch
 "Add New Search Term","新しい検索キーワードを追加",module,Magento_AdvancedSearch
 "button_label","button_label",module,Magento_AdvancedSearch
@@ -224,7 +224,7 @@
 "Search Suggestions Count","おすすめ検索数",module,Magento_AdvancedSearch
 "Show Results Count for Each Suggestion","各おすすめごとに結果数を表示する",module,Magento_AdvancedSearch
 "Related search terms","関連する検索キーワード",module,Magento_AdvancedSearch
-"Did you mean","Did you mean",module,Magento_AdvancedSearch
+"Did you mean","もしかして",module,Magento_AdvancedSearch
 "ID","ID",module,Magento_AdvancedSearch
 "Search Query","検索クエリ",module,Magento_AdvancedSearch
 "Store","店舗",module,Magento_AdvancedSearch
@@ -238,7 +238,7 @@
 "Edit","編集",module,Magento_AdvancedSearch
 "RPC call failed, connection timed out after %time_out.","RPC呼び出しに失敗しました。接続が %time_out 秒後にタイムアウトしました。",module,Magento_Amqp
 "Message has been rejected: %1","メッセージは拒否されました: %1",module,Magento_Amqp
-"Error while checking if topic is synchronous","トピックが同期しているかどうかを確認中にエラーが発生しました",module,Magento_Amqp
+"Error while checking if topic is synchronous","トピックの同期確認中にエラーが発生しました",module,Magento_Amqp
 "Subscription status","購読状況",module,Magento_Analytics
 "Sorry, there has been an error processing your request. Please try again later.","申し訳ありませんが、リクエストの処理中にエラーが発生しました。後で再度お試し下さい。",module,Magento_Analytics
 "The time value is using an unsupported format. Enter a supported format and try again.","時刻の値がサポートされていない形式を使用しています。 サポートされている形式を入力して再度お試し下さい。",module,Magento_Analytics
@@ -247,9 +247,9 @@
 "Please select an industry.","業界を選択してください。",module,Magento_Analytics
 "--Please Select--","--選択してください--",module,Magento_Analytics
 "Command was not found.","コマンドは見つかりませんでした。",module,Magento_Analytics
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","データが無効です。文字列または文字列に変換できるデータとして入力し、再度お試し下さい。",module,Magento_Analytics
-"The data is invalid. Enter the data as a string and try again.","データが無効です。データを文字列として入力し、再度お試し下さい。",module,Magento_Analytics
-"The data is invalid. Use a valid cipher method and try again.","データが無効です。有効なサイファーメソッドを使用し、再度お試し下さい。",module,Magento_Analytics
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","データが無効です。文字列または文字列に変換できるデータを入力し、再度お試し下さい。",module,Magento_Analytics
+"The data is invalid. Enter the data as a string and try again.","データが無効です。文字列を入力し、再度お試し下さい。",module,Magento_Analytics
+"The data is invalid. Use a valid cipher method and try again.","データが無効です。有効な暗号方式を使用して、再度お試し下さい。",module,Magento_Analytics
 "Enter the encryption key and try again.","暗号化キーを入力して再度お試し下さい。",module,Magento_Analytics
 "The ""%1"" source doesn't exist.","ソース ""%1"" がありません。",module,Magento_Analytics
 "These arguments can't be empty ""%1""","これらの引数は空にできません ""%1""",module,Magento_Analytics
@@ -292,16 +292,16 @@
 "Books, Music and Magazines","本、音楽と雑誌",module,Magento_Analytics
 "Crafts and Stationery","工芸品と文房具",module,Magento_Analytics
 "Consumer Electronics","家庭用電化製品",module,Magento_Analytics
-"Deal Site","ディールサイト",module,Magento_Analytics
+"Deal Site","取引サイト",module,Magento_Analytics
 "Fashion Apparel and Accessories","ファッションアパレルとアクセサリー",module,Magento_Analytics
 "Food, Beverage and Grocery","食品、飲料、食料品",module,Magento_Analytics
 "Home Goods and Furniture","家庭用品と家具",module,Magento_Analytics
-"Home Improvement","家の修繕",module,Magento_Analytics
+"Home Improvement","リフォーム",module,Magento_Analytics
 "Jewelry and Watches","ジュエリーと時計",module,Magento_Analytics
-"Mass Merchant","マスマーチャント",module,Magento_Analytics
+"Mass Merchant","量販店",module,Magento_Analytics
 "Office Supplies","事務用品",module,Magento_Analytics
 "Outdoor and Camping Gear","アウトドアとキャンプ用品",module,Magento_Analytics
-"Pet Goods","ペットグッズ",module,Magento_Analytics
+"Pet Goods","ペット用品",module,Magento_Analytics
 "Pharma and Medical Devices","製薬と医療用器具",module,Magento_Analytics
 "Technology B2B","テクノロジーB2B",module,Magento_Analytics
 "Other","その他",module,Magento_Analytics
@@ -343,11 +343,11 @@
 "ID","ID",module,Magento_AsynchronousOperations
 "Status","ステータス",module,Magento_AsynchronousOperations
 "Meta Information","メタ情報",module,Magento_AsynchronousOperations
-"Error","Error",module,Magento_AsynchronousOperations
+"Error","エラー",module,Magento_AsynchronousOperations
 "Dismiss All Completed Tasks","すべての完了したタスクを無視",module,Magento_AsynchronousOperations
 "Action Details - #","アクションの詳細 - #",module,Magento_AsynchronousOperations
 "Number of Records Affected","影響あるレコード数",module,Magento_AsynchronousOperations
-"The role wasn't found for the user. Verify the role and try again.","そのユーザのためのロールが見つかりませんでした。ロールを確認して再度お試し下さい。",module,Magento_Authorization
+"The role wasn't found for the user. Verify the role and try again.","ユーザのアクセス権が確認できませんでした。権限の設定を確認して再度お試し下さい。",module,Magento_Authorization
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","許可されたリソースのリストをコンパイリング中に問題が発生しました。例外ログにて詳細が見つかります。",module,Magento_Authorization
 "You created the order.","注文を作成しました",module,Magento_Authorizenet
 "Order saving error: %1","注文保存エラー: %1",module,Magento_Authorizenet
@@ -360,7 +360,7 @@
 "successful.","成功。",module,Magento_Authorizenet
 "Authorize.Net Transaction ID %1.","Authorize.Net Transaction ID %1",module,Magento_Authorizenet
 "authorize","承認",module,Magento_Authorizenet
-"authorize and capture",",承認と取込",module,Magento_Authorizenet
+"authorize and capture","承認と取込",module,Magento_Authorizenet
 "capture","取込",module,Magento_Authorizenet
 "refund","返金",module,Magento_Authorizenet
 "void","無効",module,Magento_Authorizenet
@@ -382,7 +382,7 @@
 "Authorize Only","認証のみ",module,Magento_Authorizenet
 "Authorize and Capture","認証と取込",module,Magento_Authorizenet
 "The transaction details are unavailable. Please try again later.","トランザクション詳細が利用できません。後で再度お試し下さい。",module,Magento_Authorizenet
-"Electronic payments save the trees.","電子決済は木々を救います",module,Magento_Authorizenet
+"Electronic payments save the trees.","電子決済はエコロジーです。",module,Magento_Authorizenet
 "Credit Card Type","クレジットカード会社",module,Magento_Authorizenet
 "Please Select","選んで下さい",module,Magento_Authorizenet
 "Credit Card Number","クレジットカード番号",module,Magento_Authorizenet
