@@ -17,7 +17,7 @@ None,なし,module,Magento_AdminGws
 "You need more permissions to save this setting.",この設定を保存するにはさらに多くの権限が必要です。,module,Magento_AdminGws
 "Role Scopes",権限範囲,module,Magento_AdminGws
 Custom,カスタム,module,Magento_AdminGws
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view",module,Magento_AdminGws
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","現在のストアビューの範囲にこのアイテムを保存する権限がありません。 許可されたストアビューに切り替えてください。",module,Magento_AdminGws
 "Read Details",詳細を読む,module,Magento_AdminNotification
 "Mark as Read",既読にする,module,Magento_AdminNotification
 "Are you sure?",よろしいですか？,module,Magento_AdminNotification
@@ -844,7 +844,7 @@ Security,セキュリティ,module,Magento_Backend
 Web,ウェブ,module,Magento_Backend
 "Url Options",URLオプション,module,Magento_Backend
 "Add Store Code to Urls",店舗コードをURLに追加,module,Magento_Backend
-"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).","<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).",module,Magento_Backend
+"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).","<strong style=""color:red"">警告！</strong>ストアコードをURLに使う場合にサードパーティサービス（PayPal等）にてストアコードのないURLが指定された場合、システムが正常に作動しないことがあります。",module,Magento_Backend
 "Auto-redirect to Base URL",ベースURLに自動リダイレクトする,module,Magento_Backend
 "Search Engine Optimization",検索エンジンオプティマイゼーション,module,Magento_Backend
 "Use Web Server Rewrites",ウェブサーバーリライトを使用する,module,Magento_Backend
@@ -1248,7 +1248,7 @@ Currency,通貨,module,Magento_Braintree
 "Transaction can not be voided if status of a PayPal partial settlement child transaction is settlement_pending.","PayPal部分決済の子トランザクションのステータスが settlement_pending の場合は、トランザクションを無効にすることはできません。",module,Magento_Braintree
 "Too many concurrent attempts to refund this transaction. Try again later.","このトランザクションを返金する試みが多すぎます。 後で再度お試し下さい。",module,Magento_Braintree
 "Too many concurrent attempts to void this transaction. Try again later.","このトランザクションを無効にする試みが多すぎます。 後で再度お試し下さい。",module,Magento_Braintree
-"Braintree Settlement","Braintree Settlement",module,Magento_Braintree
+"Braintree Settlement",Braintree決済,module,Magento_Braintree
 Country,国,module,Magento_BraintreeTwo
 "Allowed Credit Card Types",使用可能なクレジットカードタイプ,module,Magento_BraintreeTwo
 "Add Rule",ルール追加,module,Magento_BraintreeTwo
@@ -1459,8 +1459,8 @@ Select...,選択...,module,Magento_Bundle
 Status,ステータス,module,Magento_Bundle
 Thumbnail,サムネイル,module,Magento_Bundle
 Type,タイプ,module,Magento_Bundle
-"""option_id"" and ""parent_id"" values should be specified","""option_id"" and ""parent_id"" values should be specified",module,Magento_BundleGraphQl
-"""sku"" value should be specified","""sku"" value should be specified",module,Magento_BundleGraphQl
+"""option_id"" and ""parent_id"" values should be specified","""option_id"" と ""parent_id"" の値を指定する必要があります",module,Magento_BundleGraphQl
+"""sku"" value should be specified","""sku"" の値を指定する必要があります",module,Magento_BundleGraphQl
 Cancel,キャンセル,module,Magento_BundleStaging
 "Add Selected Products",選択した商品を追加,module,Magento_BundleStaging
 "Add Products to Option",オプションに商品を追加,module,Magento_BundleStaging
@@ -1514,8 +1514,8 @@ Position,位置,module,Magento_Catalog
 Day,日,module,Magento_Catalog
 Month,月,module,Magento_Catalog
 Year,年,module,Magento_Catalog
-from,from,module,Magento_Catalog
-to,to,module,Magento_Catalog
+from,開始,module,Magento_Catalog
+to,終了,module,Magento_Catalog
 [GLOBAL],[グローバル],module,Magento_Catalog
 [WEBSITE],[ウェブサイト],module,Magento_Catalog
 "[STORE VIEW]",[ストアビュー],module,Magento_Catalog
@@ -2371,18 +2371,18 @@ End,終了,module,Magento_CatalogEvent
 "Countdown Ticker",カウントダウンティッカー,module,Magento_CatalogEvent
 Action,アクション,module,Magento_CatalogEvent
 Edit,編集,module,Magento_CatalogEvent
-"Cannot resolve layered filter type","Cannot resolve layered filter type",module,Magento_CatalogGraphQl
+"Cannot resolve layered filter type",絞込のフィルタータイプを解決できません,module,Magento_CatalogGraphQl
 "Missing key %1 in product data",商品データのキー%1が見つかりません,module,Magento_CatalogGraphQl
 "Concrete type for %1 not implemented",%1のコンクリートタイプは実装されていません,module,Magento_CatalogGraphQl
-"Cannot resolve type","Cannot resolve type",module,Magento_CatalogGraphQl
-"""model"" value should be specified","""model"" value should be specified",module,Magento_CatalogGraphQl
-"""path"" value should be specified","""path"" value should be specified",module,Magento_CatalogGraphQl
+"Cannot resolve type",型を解決できません,module,Magento_CatalogGraphQl
+"""model"" value should be specified","""model"" の値を指定する必要があります",module,Magento_CatalogGraphQl
+"""path"" value should be specified","""path"" の値を指定する必要があります",module,Magento_CatalogGraphQl
 "currentPage value %1 specified is greater than the number of pages available.","指定された currentPage値 %1 は利用可能なページ数より大きいです。",module,Magento_CatalogGraphQl
 """id for category should be specified","カテゴリの ""id を指定する必要があります",module,Magento_CatalogGraphQl
 "No child sku found for product link.",商品リンクの子のskuは見つかりませんでした。,module,Magento_CatalogGraphQl
-"""image_type"" value should be specified","""image_type"" value should be specified",module,Magento_CatalogGraphQl
+"""image_type"" value should be specified","""image_type"" の値を指定する必要があります",module,Magento_CatalogGraphQl
 "'search' or 'filter' input argument is required.","'search' または 'filter' の入力引数が必要です。",module,Magento_CatalogGraphQl
-"currentPage value %1 specified is greater than the %2 page(s) available.","currentPage value %1 specified is greater than the %2 page(s) available.",module,Magento_CatalogGraphQl
+"currentPage value %1 specified is greater than the %2 page(s) available.","指定された currentPage値 %1 は利用可能な %2 より大きいです。",module,Magento_CatalogGraphQl
 "SimpleProduct type not defined in schema.","SimpleProduct タイプはスキーマで定義されていません。",module,Magento_CatalogGraphQl
 "'category_id' only supports 'eq' condition type.","'category_id' では、'eq' 条件タイプのみサポートしています。",module,Magento_CatalogGraphQl
 "Entity type model '%1' is not found","エンティティタイプモデルは' ' \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType　のインスタンスでなければなりません",module,Magento_CatalogImportExport
@@ -2478,7 +2478,7 @@ Stock,在庫数,module,Magento_CatalogInventory
 "Use Config Settings",設定を使用,module,Magento_CatalogInventory
 "Qty Uses Decimals",個数に小数表記を使う,module,Magento_CatalogInventory
 "Allow Multiple Boxes for Shipping",配送に複数のボックスを許可する,module,Magento_CatalogInventory
-"""model"" value should be specified","""model"" value should be specified",module,Magento_CatalogInventoryGraphQl
+"""model"" value should be specified","""mode"" の値を指定する必要があります",module,Magento_CatalogInventoryGraphQl
 "New Permission",新しい権限,module,Magento_CatalogPermissions
 "You already have a permission with this scope.",あなたはすでにこのスコープで権限を持っています。,module,Magento_CatalogPermissions
 (Allow),(許可),module,Magento_CatalogPermissions
@@ -2683,7 +2683,7 @@ name,name,module,Magento_CatalogSearch
 "Minimal Query Length",最少クエリ文字数,module,Magento_CatalogSearch
 "Maximum Query Length",最大クエリ文字数,module,Magento_CatalogSearch
 "Rebuild Catalog product fulltext search index",商品全文検索インデックス,module,Magento_CatalogSearch
-"Please enter a valid price range.","Please enter a valid price range.",module,Magento_CatalogSearch
+"Please enter a valid price range.",有効な価格範囲を入力してください。,module,Magento_CatalogSearch
 product,商品,module,Magento_CatalogStaging
 catalog_category,catalog_category,module,Magento_CatalogStaging
 "Magento\Catalog\Api\Data\ProductInterface","Magento\Catalog\Api\Data\ProductInterface",module,Magento_CatalogStaging
@@ -2974,7 +2974,7 @@ Payment,支払,module,Magento_Checkout
 "We received your order!",ご注文を受け付けいたしました！,module,Magento_Checkout
 "Thank you for your purchase!",ご購入ありがとうございました！,module,Magento_Checkout
 Password,パスワード,module,Magento_Checkout
-"Something went wrong while saving the page. Please refresh the page and try again.","Something went wrong while saving the page. Please refresh the page and try again.",module,Magento_Checkout
+"Something went wrong while saving the page. Please refresh the page and try again.",ページを保存中に問題が発生しました。ページを再読み込みして再度お試し下さい。,module,Magento_Checkout
 "Item in Cart",カートの中の商品,module,Magento_Checkout
 "Items in Cart",点の商品,module,Magento_Checkout
 Close,閉じる,module,Magento_Checkout
@@ -3175,9 +3175,9 @@ Enable,有効,module,Magento_Cms
 "Custom design to",カスタムデザイン先,module,Magento_Cms
 "Custom Theme",カスタムテーマ,module,Magento_Cms
 "Custom Layout",カスタムレイアウト,module,Magento_Cms
-"""identifiers"" of CMS blocks should be specified","""identifiers"" of CMS blocks should be specified",module,Magento_CmsGraphQl
-"The CMS block with the ""%1"" ID doesn't exist.","The CMS block with the ""%1"" ID doesn't exist.",module,Magento_CmsGraphQl
-"""Page id should be specified","""Page id should be specified",module,Magento_CmsGraphQl
+"""identifiers"" of CMS blocks should be specified","静的ブロックの""identifiers"" を指定する必要があります",module,Magento_CmsGraphQl
+"The CMS block with the ""%1"" ID doesn't exist.","ID ""%1"" のCMSブロックは存在しません。",module,Magento_CmsGraphQl
+"""Page id should be specified","""Page"" idを指定する必要があります",module,Magento_CmsGraphQl
 cms_page,cms_page,module,Magento_CmsStaging
 cms_block,cms_block,module,Magento_CmsStaging
 "Magento\Cms\Api\Data\BlockInterface","Magento\Cms\Api\Data\BlockInterface",module,Magento_CmsStaging
@@ -4861,19 +4861,19 @@ Back,戻る,module,Magento_CustomerCustomAttributes
 "Data was imported by %1",%1でデータをインポートしました,module,Magento_CustomerFinance
 "Store Credit",ストアクレジット,module,Magento_CustomerFinance
 "Reward Points",ポイント,module,Magento_CustomerFinance
-"The current customer isn't authorized.","The current customer isn't authorized.",module,Magento_CustomerGraphQl
-"Customer with id ""%customer_id"" does not exist.","Customer with id ""%customer_id"" does not exist.",module,Magento_CustomerGraphQl
-"The account is locked.","The account is locked.",module,Magento_CustomerGraphQl
-"This account isn't confirmed. Verify and try again.","This account isn't confirmed. Verify and try again.",module,Magento_CustomerGraphQl
-"The password doesn't match this account. Verify the password and try again.","The password doesn't match this account. Verify the password and try again.",module,Magento_CustomerGraphQl
-"Customer id ""%customer_id"" does not exist.","Customer id ""%customer_id"" does not exist.",module,Magento_CustomerGraphQl
-"Provide the current ""password"" to change ""email"".","Provide the current ""password"" to change ""email"".",module,Magento_CustomerGraphQl
-"A customer with the same email address already exists in an associated website.","A customer with the same email address already exists in an associated website.",module,Magento_CustomerGraphQl
-"Specify the ""currentPassword"" value.","Specify the ""currentPassword"" value.",module,Magento_CustomerGraphQl
-"Specify the ""newPassword"" value.","Specify the ""newPassword"" value.",module,Magento_CustomerGraphQl
-"Specify the ""email"" value.","Specify the ""email"" value.",module,Magento_CustomerGraphQl
-"Specify the ""password"" value.","Specify the ""password"" value.",module,Magento_CustomerGraphQl
-"""input"" value should be specified","""input"" value should be specified",module,Magento_CustomerGraphQl
+"The current customer isn't authorized.",現在の顧客が承認されていません。,module,Magento_CustomerGraphQl
+"Customer with id ""%customer_id"" does not exist.","id ""%customer_id"" の顧客は存在しません。",module,Magento_CustomerGraphQl
+"The account is locked.",アカウントはロックされています。,module,Magento_CustomerGraphQl
+"This account isn't confirmed. Verify and try again.",このアカウントは確認できません。確認して再度お試し下さい。,module,Magento_CustomerGraphQl
+"The password doesn't match this account. Verify the password and try again.",パスワードがこのアカウントと一致しません。パスワードを確認して再度お試し下さい。,module,Magento_CustomerGraphQl
+"Customer id ""%customer_id"" does not exist.","顧客id ""%customer_id"" の顧客は存在しません。",module,Magento_CustomerGraphQl
+"Provide the current ""password"" to change ""email"".","現在の""パスワード""を入力して""Eメール""を変更します。",module,Magento_CustomerGraphQl
+"A customer with the same email address already exists in an associated website.",顧客と同じE-メールアドレスがすでに関連するウェブサイトに存在します。,module,Magento_CustomerGraphQl
+"Specify the ""currentPassword"" value.","""currentPassword"" の値を指定して下さい。",module,Magento_CustomerGraphQl
+"Specify the ""newPassword"" value.","""newPassword"" の値を指定して下さい。",module,Magento_CustomerGraphQl
+"Specify the ""email"" value.","""email"" の値を指定して下さい。",module,Magento_CustomerGraphQl
+"Specify the ""password"" value.","""password"" の値を指定して下さい。",module,Magento_CustomerGraphQl
+"""input"" value should be specified","""input"" の値を指定する必要があります",module,Magento_CustomerGraphQl
 "Please specify a website.",ウェブサイトをしてください。,module,Magento_CustomerImportExport
 "Please specify an email.",Eメールを指定してください。,module,Magento_CustomerImportExport
 "We found an invalid value in a website column.",ウェブサイトカラム内で不正な値を見つけました。,module,Magento_CustomerImportExport
@@ -5262,11 +5262,11 @@ Service,サービス,module,Magento_Directory
 "State is Required for",都道府県必須,module,Magento_Directory
 "Allow to Choose State if It is Optional for Country",都道府県・州が国により任意の場合はオプションとする,module,Magento_Directory
 "Weight Unit",単位(重量),module,Magento_Directory
-"No API Key was specified or an invalid API Key was specified.","No API Key was specified or an invalid API Key was specified.",module,Magento_Directory
-"The account this API request is coming from is inactive.","The account this API request is coming from is inactive.",module,Magento_Directory
-"The ""%1"""" is not allowed as base currency for your subscription plan.""","The ""%1"""" is not allowed as base currency for your subscription plan.""",module,Magento_Directory
-"An invalid base currency has been entered.","An invalid base currency has been entered.",module,Magento_Directory
-"Currency rates can't be retrieved.","Currency rates can't be retrieved.",module,Magento_Directory
+"No API Key was specified or an invalid API Key was specified.","API キーが指定されていないか、無効な API キーが指定されました。",module,Magento_Directory
+"The account this API request is coming from is inactive.","この APIリクエストの送信元アカウントは非アクティブです。",module,Magento_Directory
+"The ""%1"""" is not allowed as base currency for your subscription plan.""","""%1""""は、購読プランの基本通貨として使用できません。""",module,Magento_Directory
+"An invalid base currency has been entered.",無効な基本通貨が入力されています。,module,Magento_Directory
+"Currency rates can't be retrieved.",通貨レートを取得できません。,module,Magento_Directory
 "Document is not saved due to error.","Document is not saved due to error.",module,Magento_Doc
 "More than one node matching the query: %1","クエリに一致する 1 つ以上のノード: %1",module,Magento_Doc
 "Invalid XML in file %1:\n%2","ファイル %1:\n%2 内の無効な XML",module,Magento_Doc
@@ -5391,7 +5391,7 @@ Downloads,ダウンロード,module,Magento_Downloadable
 "Use Content-Disposition",Content-Dispositionを使用する,module,Magento_Downloadable
 "Disable Guest Checkout if Cart Contains Downloadable Items",ダウンロード商品がカートにある場合はゲスト購入を無効にする,module,Magento_Downloadable
 "Guest checkout will only work with shareable.",ゲスト購入は共有できる形でしか動作しません。,module,Magento_Downloadable
-"""model"" value should be specified","""model"" value should be specified",module,Magento_DownloadableGraphQl
+"""model"" value should be specified","""mode"" の値を指定する必要があります",module,Magento_DownloadableGraphQl
 "File directory '%1' is not readable.","ファイルディレクトリー '%1' 書き込み可能ではありません。",module,Magento_DownloadableImportExport
 "File directory '%1' is not writable.","ファイルディレクトリー '%1' 書き込み可能ではありません。",module,Magento_DownloadableImportExport
 Error,Error,module,Magento_DownloadableImportExport
@@ -5541,12 +5541,12 @@ hello,こんにちは,module,Magento_Eav
 "The value of attribute not valid",属性の値は有効ではありません,module,Magento_Eav
 "EAV types and attributes",EAV定義,module,Magento_Eav
 "Entity types declaration cache",エンティティ種類の宣言キャッシュ。,module,Magento_Eav
-"""Entity type should be specified","""Entity type should be specified",module,Magento_EavGraphQl
-"""Attribute code should be specified","""Attribute code should be specified",module,Magento_EavGraphQl
+"""Entity type should be specified",エンティティタイプを指定する必要があります,module,Magento_EavGraphQl
+"""Attribute code should be specified",属性コードを指定する必要があります,module,Magento_EavGraphQl
 "Attribute code %1 of entity type %2 not configured to have a type.","エンティティタイプ %2 の属性コード %1 にタイプが設定されていません。",module,Magento_EavGraphQl
 "Invalid entity_type specified: %1","無効なエンティティタイプが指定されました: %1",module,Magento_EavGraphQl
 "Missing %1 for the input %2.",入力%2に対する%1がありません。,module,Magento_EavGraphQl
-"Cannot resolve EAV type","Cannot resolve EAV type",module,Magento_EavGraphQl
+"Cannot resolve EAV type",EAV型を解決できません,module,Magento_EavGraphQl
 "There is no such data mapper ""%1"" for interface %2","インターフェイス %2 に対する ""%1"" というデータマッパーはありません",module,Magento_Elasticsearch
 "Data mapper ""%1"" must implement interface %2","データ マッパー""%1"" はインターフェイス %2 を実装する必要があります",module,Magento_Elasticsearch
 "We were unable to perform the search because of a search engine misconfiguration.",検索エンジンが誤って設定されているため、検索を実行できませんでした。,module,Magento_Elasticsearch
@@ -5875,7 +5875,7 @@ Redeemable,換金可能,module,Magento_GiftCard
 "Allow Gift Message",ギフトメッセージを許可,module,Magento_GiftCard
 "Gift Message Maximum Length",ギフトメッセージ最大文字数,module,Magento_GiftCard
 "Generate Gift Card Account when Order Item is",注文商品が以下の場合に自動的にギフトカードアカウントを作成する,module,Magento_GiftCard
-"Amount should be specified or Open Amount should be allowed","Amount should be specified or Open Amount should be allowed",module,Magento_GiftCard
+"Amount should be specified or Open Amount should be allowed",金額を指定するか、未払い金額を許可する必要があります。,module,Magento_GiftCard
 "Gift Card Accounts",ギフトカードアカウント,module,Magento_GiftCardAccount
 "Add Gift Card Account",ギフトカードアカウントを追加,module,Magento_GiftCardAccount
 Save,保存,module,Magento_GiftCardAccount
@@ -6021,8 +6021,8 @@ CSV,CSV,module,Magento_GiftCardAccount
 "Are you sure you want to delete these gift card accounts?",これらのギフトアカウントを削除してもよろしいですか？,module,Magento_GiftCardAccount
 Code,コード,module,Magento_GiftCardAccount
 End,終了,module,Magento_GiftCardAccount
-"Amount can be returned to Store Credit.","Amount can be returned to Store Credit.",module,Magento_GiftCardAccount
-"""model"" value should be specified","""model"" value should be specified",module,Magento_GiftCardGraphQl
+"Amount can be returned to Store Credit.",金額はストアクレジットに返金できます。,module,Magento_GiftCardAccount
+"""model"" value should be specified","""mode"" の値を指定する必要があります",module,Magento_GiftCardGraphQl
 "Gift Messages are not applicable for empty cart",空のカートにギフトメッセージは適用されません,module,Magento_GiftMessage
 "Gift Messages are not applicable for virtual products",ギフトメッセージは仮想製品には適用されません,module,Magento_GiftMessage
 "Gift Message is not available",ギフトメッセージは使えません,module,Magento_GiftMessage
@@ -6526,7 +6526,7 @@ Type,種別,module,Magento_GroupedProduct
 Quantity,個数,module,Magento_GroupedProduct
 AttributeSetText,AttributeSetText,module,Magento_GroupedProduct
 StatusText,ステータステキスト,module,Magento_GroupedProduct
-"""model"" value should be specified","""model"" value should be specified",module,Magento_GroupedProductGraphQl
+"""model"" value should be specified","""mode"" の値を指定する必要があります",module,Magento_GroupedProductGraphQl
 Select...,選択...,module,Magento_GroupedProductStaging
 Status,ステータス,module,Magento_GroupedProductStaging
 ID,ID,module,Magento_GroupedProductStaging
@@ -6703,7 +6703,7 @@ Updated,更新,module,Magento_Indexer
 "Payment Method",支払方法,module,Magento_InstantPurchase
 "Shipping Method",配送方法,module,Magento_InstantPurchase
 Enabled,有効,module,Magento_InstantPurchase
-"Payment method with vault and instant purchase support should be enabled.","Payment method with vault and instant purchase support should be enabled.",module,Magento_InstantPurchase
+"Payment method with vault and instant purchase support should be enabled.",vaultによる支払い方法と即時購入サポートを有効にする必要があります。,module,Magento_InstantPurchase
 "Button Text",ボタンテキスト,module,Magento_InstantPurchase
 Integrations,インテグレーション,module,Magento_Integration
 "Add New Integration",新しいインテグレーションを追加,module,Magento_Integration
@@ -7447,7 +7447,7 @@ Options,オプション,module,Magento_Multishipping
 "We received your order!",ご注文を受け付けいたしました！,module,Magento_Multishipping
 "Ship to:",配送先:,module,Magento_Multishipping
 Error:,エラー:,module,Magento_Multishipping
-"We are unable to process your request. Please, try again later.","We are unable to process your request. Please, try again later.",module,Magento_Multishipping
+"We are unable to process your request. Please, try again later.",リクエストを処理できません。再度お試し下さい。,module,Magento_Multishipping
 "Message has been rejected: %1","メッセージは拒否されました: %1",module,Magento_MysqlMq
 "MySQL Message Queue Cleanup","MySQL Message Queueクリーンアップ",module,Magento_MysqlMq
 "All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","すべての時間は分です。自動クリアランスをスキップする場合は、 "" 0 ""を使用してください。",module,Magento_MysqlMq
@@ -7901,8 +7901,8 @@ General,全般,module,Magento_NewRelicReporting
 "This is located by navigating to Settings from the New Relic APM website","設定のNew Relic APMウェブサイトにあります",module,Magento_NewRelicReporting
 Cron,クロン,module,Magento_NewRelicReporting
 "Enable Cron",Cron有効化,module,Magento_NewRelicReporting
-"Send Adminhtml and Frontend as Separate Apps","Send Adminhtml and Frontend as Separate Apps",module,Magento_NewRelicReporting
-"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.",module,Magento_NewRelicReporting
+"Send Adminhtml and Frontend as Separate Apps",Adminhtmlとフロントエンドを別々のアプリケーションとして送信する,module,Magento_NewRelicReporting
+"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","メインアプリケーション（すべてのPHP実行を含む）に加えて、adminhtmlとフロントエンド用に別々のアプリケーションが作成されます。 New Relicアプリケーション名を設定する必要があります。",module,Magento_NewRelicReporting
 "Delete Selected Problems",選択した問題を削除する,module,Magento_Newsletter
 "Unsubscribe Selected",未購読を選択しました,module,Magento_Newsletter
 Back,戻る,module,Magento_Newsletter
@@ -8069,7 +8069,7 @@ Enabled,Enabled,module,Magento_OfflinePayments
 "New Order Status",新規注文ステータス,module,Magento_OfflinePayments
 "Sort Order",表示順,module,Magento_OfflinePayments
 Title,タイトル,module,Magento_OfflinePayments
-"Purchase order number is a required field.","Purchase order number is a required field.",module,Magento_OfflinePayments
+"Purchase order number is a required field.",配送番号は必須項目です。,module,Magento_OfflinePayments
 "Payment from Applicable Countries",許可された国からの支払,module,Magento_OfflinePayments
 "Payment from Specific Countries",特定の国からの支払,module,Magento_OfflinePayments
 "Make Check Payable to",小切手の振出先を指定,module,Magento_OfflinePayments
@@ -9062,31 +9062,31 @@ error345,エラー345,module,Magento_Quote
 Carts,カート,module,Magento_Quote
 "Manage carts",カートを管理する,module,Magento_Quote
 "Invalid state change requested",無効なステート変更がリクエストされました,module,Magento_Quote
-"Shopping cart error: %message","Shopping cart error: %message",module,Magento_QuoteGraphQl
-"Could not find a product with SKU ""%sku""","Could not find a product with SKU ""%sku""",module,Magento_QuoteGraphQl
-"Missing key ""sku"" in cart item data","Missing key ""sku"" in cart item data",module,Magento_QuoteGraphQl
-"Missing key ""qty"" in cart item data","Missing key ""qty"" in cart item data",module,Magento_QuoteGraphQl
-"Could not find a cart with ID ""%masked_cart_id""","Could not find a cart with ID ""%masked_cart_id""",module,Magento_QuoteGraphQl
-"The current user cannot perform operations on cart ""%masked_cart_id""","The current user cannot perform operations on cart ""%masked_cart_id""",module,Magento_QuoteGraphQl
-"You cannot specify multiple shipping addresses.","You cannot specify multiple shipping addresses.",module,Magento_QuoteGraphQl
-"The shipping address must contain either ""customer_address_id"" or ""address"".","The shipping address must contain either ""customer_address_id"" or ""address"".",module,Magento_QuoteGraphQl
-"The shipping address cannot contain ""customer_address_id"" and ""address"" at the same time.","The shipping address cannot contain ""customer_address_id"" and ""address"" at the same time.",module,Magento_QuoteGraphQl
-"Option type ""%1"" is not supported","Option type ""%1"" is not supported",module,Magento_QuoteGraphQl
-"%1 doesn't implement CustomizableOptionValueInterface","%1 doesn't implement CustomizableOptionValueInterface",module,Magento_QuoteGraphQl
-"Missing key ""cart_id"" in cart data","Missing key ""cart_id"" in cart data",module,Magento_QuoteGraphQl
-"Missing key ""cartItems"" in cart data","Missing key ""cartItems"" in cart data",module,Magento_QuoteGraphQl
-"Required parameter ""cart_id"" is missing","Required parameter ""cart_id"" is missing",module,Magento_QuoteGraphQl
-"Required parameter ""coupon_code"" is missing","Required parameter ""coupon_code"" is missing",module,Magento_QuoteGraphQl
-"A coupon is already applied to the cart. Please remove it to apply another","A coupon is already applied to the cart. Please remove it to apply another",module,Magento_QuoteGraphQl
-"""model"" value should be specified","""model"" value should be specified",module,Magento_QuoteGraphQl
-"Missing key ""product"" in cart data","Missing key ""product"" in cart data",module,Magento_QuoteGraphQl
-"Missing key ""type_id"" in product data","Missing key ""type_id"" in product data",module,Magento_QuoteGraphQl
-"Product ""%product_type"" type is not supported","Product ""%product_type"" type is not supported",module,Magento_QuoteGraphQl
-"Required parameter ""shipping_addresses"" is missing","Required parameter ""shipping_addresses"" is missing",module,Magento_QuoteGraphQl
-"Required parameter ""shipping_methods"" is missing","Required parameter ""shipping_methods"" is missing",module,Magento_QuoteGraphQl
-"Required parameter ""cart_address_id"" is missing","Required parameter ""cart_address_id"" is missing",module,Magento_QuoteGraphQl
-"Required parameter ""shipping_carrier_code"" is missing","Required parameter ""shipping_carrier_code"" is missing",module,Magento_QuoteGraphQl
-"Required parameter ""shipping_method_code"" is missing","Required parameter ""shipping_method_code"" is missing",module,Magento_QuoteGraphQl
+"Shopping cart error: %message",ショッピングカートのエラー：%message,module,Magento_QuoteGraphQl
+"Could not find a product with SKU ""%sku""","SKUが""sku""の商品が見つかりませんでした",module,Magento_QuoteGraphQl
+"Missing key ""sku"" in cart item data","カートアイテムのデータに ""sku"" キーがありません",module,Magento_QuoteGraphQl
+"Missing key ""qty"" in cart item data","カートアイテムのデータに ""qty"" キーがありません",module,Magento_QuoteGraphQl
+"Could not find a cart with ID ""%masked_cart_id""","IDが ""%masked_cart_id""のカートが見つかりませんでした",module,Magento_QuoteGraphQl
+"The current user cannot perform operations on cart ""%masked_cart_id""","現在のユーザはカート ""%masked_cart_id"" に対して操作を実行できません",module,Magento_QuoteGraphQl
+"You cannot specify multiple shipping addresses.",複数の配送先住所を指定することはできません。,module,Magento_QuoteGraphQl
+"The shipping address must contain either ""customer_address_id"" or ""address"".","配送先住所には ""customer_address_id"" または ""address""を含める必要があります。",module,Magento_QuoteGraphQl
+"The shipping address cannot contain ""customer_address_id"" and ""address"" at the same time.","配送先住所に ""customer_address_id""と ""address""を同時に含めることはできません。",module,Magento_QuoteGraphQl
+"Option type ""%1"" is not supported","オプションタイプ ""%1"" はサポートされていません",module,Magento_QuoteGraphQl
+"%1 doesn't implement CustomizableOptionValueInterface","%1 は CustomizableOptionValueInterface を実装していません",module,Magento_QuoteGraphQl
+"Missing key ""cart_id"" in cart data","カートデータに ""cart_id"" キーがありません。",module,Magento_QuoteGraphQl
+"Missing key ""cartItems"" in cart data","カートデータに ""cartItems"" キーがありません。",module,Magento_QuoteGraphQl
+"Required parameter ""cart_id"" is missing","必須パラメーター""cart_id""がありません。",module,Magento_QuoteGraphQl
+"Required parameter ""coupon_code"" is missing","必須パラメーター""coupon_code""がありません。",module,Magento_QuoteGraphQl
+"A coupon is already applied to the cart. Please remove it to apply another","クーポンはすでにカートに適用されています。 別のカートに適用するには削除してください。",module,Magento_QuoteGraphQl
+"""model"" value should be specified","""mode"" の値を指定する必要があります",module,Magento_QuoteGraphQl
+"Missing key ""product"" in cart data","カートデータに ""product"" キーがありません。",module,Magento_QuoteGraphQl
+"Missing key ""type_id"" in product data","商品データの ""type_id"" キー が見つかりません",module,Magento_QuoteGraphQl
+"Product ""%product_type"" type is not supported","""%product_type"" タイプの商品はサポートされていません",module,Magento_QuoteGraphQl
+"Required parameter ""shipping_addresses"" is missing","必須パラメーター""shipping_addresses""がありません。",module,Magento_QuoteGraphQl
+"Required parameter ""shipping_methods"" is missing","必須パラメーター""shipping_methods""がありません。",module,Magento_QuoteGraphQl
+"Required parameter ""cart_address_id"" is missing","必須パラメーター""cart_address_id""がありません。",module,Magento_QuoteGraphQl
+"Required parameter ""shipping_carrier_code"" is missing","必須パラメーター""shipping_carrier_code""がありません。",module,Magento_QuoteGraphQl
+"Required parameter ""shipping_method_code"" is missing","必須パラメーター""shipping_method_code""がありません。",module,Magento_QuoteGraphQl
 "Next >","次 >",module,Magento_ReleaseNotification
 "< Back","< 戻る",module,Magento_ReleaseNotification
 Done,完了,module,Magento_ReleaseNotification
@@ -11666,13 +11666,13 @@ Enabled,有効,module,Magento_SendFriend
 "Max Recipients",最大受信者数,module,Magento_SendFriend
 "Max Products Sent in 1 Hour",1時間あたりの最大送信件数,module,Magento_SendFriend
 "Limit Sending By",送信制限,module,Magento_SendFriend
-"You can't send messages more than %1 times an hour.","You can't send messages more than %1 times an hour.",module,Magento_SendFriendGraphQl
-"The product that was requested doesn't exist. Verify the product and try again.","The product that was requested doesn't exist. Verify the product and try again.",module,Magento_SendFriendGraphQl
-"Please provide Name for all of recipients.","Please provide Name for all of recipients.",module,Magento_SendFriendGraphQl
-"Please provide Email for all of recipients.","Please provide Email for all of recipients.",module,Magento_SendFriendGraphQl
-"Please provide Name of sender.","Please provide Name of sender.",module,Magento_SendFriendGraphQl
-"Please provide Email of sender.","Please provide Email of sender.",module,Magento_SendFriendGraphQl
-"Please provide Message.","Please provide Message.",module,Magento_SendFriendGraphQl
+"You can't send messages more than %1 times an hour.","1時間に %1回以上メッセージを送信することはできません。",module,Magento_SendFriendGraphQl
+"The product that was requested doesn't exist. Verify the product and try again.",要求された商品が存在しません。商品を確認して再度お試し下さい。,module,Magento_SendFriendGraphQl
+"Please provide Name for all of recipients.",すべての受信者の名前を入力してください。,module,Magento_SendFriendGraphQl
+"Please provide Email for all of recipients.",全ての受信者にEメールを送信して下さい。,module,Magento_SendFriendGraphQl
+"Please provide Name of sender.",送信者の名前を入力してください。,module,Magento_SendFriendGraphQl
+"Please provide Email of sender.",送信者のEメールを入力してください。,module,Magento_SendFriendGraphQl
+"Please provide Message.",メッセージを送信してください。,module,Magento_SendFriendGraphQl
 "Save and Continue Edit",保存して編集を続ける,module,Magento_SharedCatalog
 "Catalog Structure",カタログ構成,module,Magento_SharedCatalog
 "Catalog Id","カタログ Id",module,Magento_SharedCatalog
@@ -12840,7 +12840,7 @@ Rate,レート,module,Magento_TaxImportExport
 "Invalid file upload attempt",不正なファイルがアップロードされました,module,Magento_TaxImportExport
 "Invalid file upload attempt.",不正なファイルがアップロードされました.,module,Magento_TaxImportExport
 "Invalid file format.",無効なフォーマット,module,Magento_TaxImportExport
-"Country code is invalid: %1","Country code is invalid: %1",module,Magento_TaxImportExport
+"Country code is invalid: %1","国コードが無効です: %1",module,Magento_TaxImportExport
 "Import Tax Rates",税率のインポート,module,Magento_TaxImportExport
 "Export Tax Rates",税率のエクスポート,module,Magento_TaxImportExport
 CSV,CSV,module,Magento_TaxImportExport
@@ -13395,8 +13395,8 @@ No,No,module,Magento_UrlRewrite
 "Select Category",カテゴリを選択,module,Magento_UrlRewrite
 Action,アクション,module,Magento_UrlRewrite
 Edit,編集,module,Magento_UrlRewrite
-"""url"" argument should be specified and not empty","""url"" argument should be specified and not empty",module,Magento_UrlRewriteGraphQl
-"""model"" value should be specified","""model"" value should be specified",module,Magento_UrlRewriteGraphQl
+"""url"" argument should be specified and not empty","""url"" 引数を指定し、空にしないでください",module,Magento_UrlRewriteGraphQl
+"""model"" value should be specified","""mode"" の値を指定する必要があります",module,Magento_UrlRewriteGraphQl
 Back,戻る,module,Magento_User
 Reset,リセット,module,Magento_User
 "Delete Role",権限の削除,module,Magento_User
@@ -14186,8 +14186,8 @@ Action,アクション,module,Magento_Wishlist
 Configure,構成,module,Magento_Wishlist
 Delete,削除,module,Magento_Wishlist
 "Product Details and Comment",商品の詳細とコメント,module,Magento_Wishlist
-"Missing key ""model"" in Wishlist Item value data","Missing key ""model"" in Wishlist Item value data",module,Magento_WishlistGraphQl
-"Missing key ""model"" in Wishlist value data","Missing key ""model"" in Wishlist value data",module,Magento_WishlistGraphQl
+"Missing key ""model"" in Wishlist Item value data","Wishlist のアイテムの値のデータに ""model"" キーがありません",module,Magento_WishlistGraphQl
+"Missing key ""model"" in Wishlist value data","Wishlist の値のデータに ""model"" キーがありません",module,Magento_WishlistGraphQl
 "Credit card type",クレジットカードの種類,module,Magento_Worldpay
 "CVV result","CVV 結果",module,Magento_Worldpay
 "Postcode AVS check",郵便番号AVSチェック,module,Magento_Worldpay

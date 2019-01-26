@@ -19,7 +19,7 @@ Read more [Magento 2 Japanese Language Pack](https://www.mageplaza.com/magento-2
 
 This is status of Japanese Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](http://progressed.io/bar/95?title=translated)
+![language pack](http://progressed.io/bar/96?title=translated)
 
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
@@ -89,8 +89,11 @@ Unzip the Japanese language pack to Magento 2 root folder. In this guide, we ext
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/ja_jp
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-japanese-language-pack` to `ja_jp`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -110,7 +113,11 @@ To download and install Japanese pack manually, you have to access to your serve
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `ja_JP.zip` into `app/i18n/mageplaza/ja_JP/ja_JP.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/ja_jp/ja_JP.csv`
+
+See this screenshot
+
+![Japanese pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
