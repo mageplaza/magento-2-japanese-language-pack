@@ -1,20 +1,20 @@
 All,全て,module,Magento_AdminGws
 None,なし,module,Magento_AdminGws
 "Allowed Scopes",許可されたスコープ,module,Magento_AdminGws
-"More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item.",module,Magento_AdminGws
+"More permissions are needed to delete the ""%1"" item.","""%1"" を削除するための権限が不足しています。",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.",いくつかのルールアップデートを適用するには、さらに多くの権限が必要です。,module,Magento_AdminGws
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again.",module,Magento_AdminGws
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdminGws
-"This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again.",module,Magento_AdminGws
-"More permissions are needed to save this item.","More permissions are needed to save this item.",module,Magento_AdminGws
-"More permissions are needed to delete this item.","More permissions are needed to delete this item.",module,Magento_AdminGws
-"More permissions are needed to view this item.","More permissions are needed to view this item.",module,Magento_AdminGws
-"At least one website or store group needs to be selected. Select and try again.","At least one website or store group needs to be selected. Select and try again.",module,Magento_AdminGws
-"More permissions are needed to set All Scopes to a Role.","More permissions are needed to set All Scopes to a Role.",module,Magento_AdminGws
-"The ""%1"" website ID is incorrect. Verify the website ID and try again.","The ""%1"" website ID is incorrect. Verify the website ID and try again.",module,Magento_AdminGws
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.",このエンティティはストアビューに割り当てられる必要があります。割当を確認してやり直してください。,module,Magento_AdminGws
+"Orders can only be completed in an active store. Verify the store and try again.",注文はアクティブなストアでのみ完了できます。ストアを確認してやり直してください。,module,Magento_AdminGws
+"This item needs to be assigned to a store view. Assign item and try again.",このアイテムはストアビューに割り当てる必要があります。アイテムを割り当てて再度お試し下さい。,module,Magento_AdminGws
+"More permissions are needed to save this item.",このアイテムを保存するための権限が不足しています。,module,Magento_AdminGws
+"More permissions are needed to delete this item.",このアイテムを削除するための権限が不足しています。,module,Magento_AdminGws
+"More permissions are needed to view this item.",このアイテムを閲覧するための権限が不足しています。,module,Magento_AdminGws
+"At least one website or store group needs to be selected. Select and try again.",最低でも1つのウェブサイトかストアグループが選択されていなければなりません。選択した上でやり直してください。,module,Magento_AdminGws
+"More permissions are needed to set All Scopes to a Role.",すべてのスコープに権限を付与するための権限が不足しています。,module,Magento_AdminGws
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","ウェブサイト ""%1"" のIDが不正です。ウェブサイトIDを確認してやり直してください。",module,Magento_AdminGws
 "You need more permissions to access website ""%1"".","ウェブサイト""%1"" にアクセスする権限がありません。権限の設定を変更する必要があります。",module,Magento_AdminGws
-"The ""%1"" store ID is incorrect. Verify the store ID and try again.","The ""%1"" store ID is incorrect. Verify the store ID and try again.",module,Magento_AdminGws
-"More permissions are needed to save this setting.","More permissions are needed to save this setting.",module,Magento_AdminGws
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","ストア ""%1"" のIDが不正です。ストアIDを確認してやり直してください。",module,Magento_AdminGws
+"More permissions are needed to save this setting.",この設定を保存するための権限が不足しています。,module,Magento_AdminGws
 "Role Scopes",権限範囲,module,Magento_AdminGws
 Custom,カスタム,module,Magento_AdminGws
 "Read Details",詳細を読む,module,Magento_AdminNotification
@@ -104,19 +104,19 @@ Configure,構成,module,Magento_AdvancedCheckout
 "You must buy at least %1 of these per purchase.","購入ごとに少なくとも %1 を購入する必要があります。",module,Magento_AdvancedCheckout
 "Specify the product's options.",製品のオプションを指定します。,module,Magento_AdvancedCheckout
 "Alert me when this item is available.",この商品が入荷したら通知してください。,module,Magento_AdvancedCheckout
-"This customer couldn't be found. Verify the customer and try again.","This customer couldn't be found. Verify the customer and try again.",module,Magento_AdvancedCheckout
+"This customer couldn't be found. Verify the customer and try again.",この顧客は存在しません。顧客を確認の上やり直してください。,module,Magento_AdvancedCheckout
 "Shopping cart management is disabled for this customer.",この顧客のショッピングカート管理は無効です。,module,Magento_AdvancedCheckout
-"This store couldn't be found. Verify the store and try again.","This store couldn't be found. Verify the store and try again.",module,Magento_AdvancedCheckout
+"This store couldn't be found. Verify the store and try again.",このストアは存在しません。ストアを確認してやり直してください。,module,Magento_AdvancedCheckout
 Customers,顧客,module,Magento_AdvancedCheckout
 "Shopping Cart",カート,module,Magento_AdvancedCheckout
-"An error occurred. For details, see the error log.","An error occurred. For details, see the error log.",module,Magento_AdvancedCheckout
+"An error occurred. For details, see the error log.",エラーが発生しました。詳細はログをご覧ください。,module,Magento_AdvancedCheckout
 "You do not have access to this.",これにアクセスできません。,module,Magento_AdvancedCheckout
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdvancedCheckout
-"The ordered item needs to be loaded. Load the item and try again.","The ordered item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The wish list item ID needs to be received. Set the ID and try again.","The wish list item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The wish list item needs to be loaded. Load the item and try again.","The wish list item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.",注文はアクティブなストアでのみ完了できます。ストアを確認してやり直してください。,module,Magento_AdvancedCheckout
+"The ordered item needs to be loaded. Load the item and try again.",注文済み商品を読み込む必要があります。商品を再読込してやり直してください。,module,Magento_AdvancedCheckout
+"The quote item ID needs to be received. Set the ID and try again.",カート商品IDが必要です。IDをセットしてやり直してください。,module,Magento_AdvancedCheckout
+"The quote item needs to be loaded. Load the item and try again.",カート商品が必要です。商品をセットしてやり直してください。,module,Magento_AdvancedCheckout
+"The wish list item ID needs to be received. Set the ID and try again.",ほしいものリスト商品IDが必要です。IDをセットしてやり直してください。,module,Magento_AdvancedCheckout
+"The wish list item needs to be loaded. Load the item and try again.",ほしいものリスト商品を読み込む必要があります。商品を読み込んでやり直してください。,module,Magento_AdvancedCheckout
 "An error has occurred. See error log for details.",エラーが発生しました。ログを確認してください。,module,Magento_AdvancedCheckout
 "You cannot configure a product.",Y製品を構成することはできません。,module,Magento_AdvancedCheckout
 "You removed the items.",アイテムを削除しました。,module,Magento_AdvancedCheckout
@@ -147,7 +147,7 @@ Customers,顧客,module,Magento_AdvancedCheckout
 "Yes, for Specified Customer Groups",はい。指定された顧客グループのためです。,module,Magento_AdvancedCheckout
 "Yes, for Everyone",はい、誰にでも,module,Magento_AdvancedCheckout
 No,No,module,Magento_AdvancedCheckout
-"The file is corrupt and can't be used.","The file is corrupt and can't be used.",module,Magento_AdvancedCheckout
+"The file is corrupt and can't be used.",ファイルが破損しているため、使用できません。,module,Magento_AdvancedCheckout
 "Please upload the file in .csv format.",.csv形式でファイルをアップロードしてください。,module,Magento_AdvancedCheckout
 "%1 item(s) need your attention.",注意が必要なアイテムが%1あります。,module,Magento_AdvancedCheckout
 "Apply Coupon Code",クーポンを適用,module,Magento_AdvancedCheckout
@@ -347,13 +347,13 @@ Error,エラー,module,Magento_AsynchronousOperations
 "Dismiss All Completed Tasks",すべての完了したタスクを無視,module,Magento_AsynchronousOperations
 "Action Details - #","アクションの詳細 - #",module,Magento_AsynchronousOperations
 "Number of Records Affected",影響あるレコード数,module,Magento_AsynchronousOperations
-"The role wasn't found for the user. Verify the role and try again.","The role wasn't found for the user. Verify the role and try again.",module,Magento_Authorization
+"The role wasn't found for the user. Verify the role and try again.",ユーザのアクセス権が確認できませんでした。権限の設定を確認して再度お試し下さい。,module,Magento_Authorization
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.",許可されたリソースのリストをコンパイリング中に問題が発生しました。例外ログにて詳細が見つかります。,module,Magento_Authorization
 "You created the order.",注文を作成しました,module,Magento_Authorizenet
 "Order saving error: %1","注文保存エラー: %1",module,Magento_Authorizenet
 "Please choose a payment method.",支払い方法を選択してください。,module,Magento_Authorizenet
 "We can't process your order right now. Please try again later.","クレジットカード: xxxx-%1",module,Magento_Authorizenet
-"A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Authorizenet
+"A server error stopped your order from being placed. Please try to place your order again.","サーバーエラーにより、注文が中止されました。 もう一度やり直してください。",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","クレジットカード: xxxx-%1",module,Magento_Authorizenet
 "amount %1","額 %1",module,Magento_Authorizenet
 failed.,失敗。,module,Magento_Authorizenet
@@ -381,7 +381,7 @@ void,無効,module,Magento_Authorizenet
 "Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","トランザクション %1 は無効化/却下されました。トランザクションステータスは ""%2""。 額 %3。",module,Magento_Authorizenet
 "Authorize Only",認証のみ,module,Magento_Authorizenet
 "Authorize and Capture",認証と取込,module,Magento_Authorizenet
-"The transaction details are unavailable. Please try again later.","The transaction details are unavailable. Please try again later.",module,Magento_Authorizenet
+"The transaction details are unavailable. Please try again later.",トランザクション詳細が利用できません。後で再度お試し下さい。,module,Magento_Authorizenet
 "Electronic payments save the trees.",電子決済はエコロジーです。,module,Magento_Authorizenet
 "Credit Card Type",クレジットカード会社,module,Magento_Authorizenet
 "Please Select",選んで下さい,module,Magento_Authorizenet
@@ -429,7 +429,7 @@ Done,完了,module,Magento_B2b
 "B2B Features",B2B機能,module,Magento_B2b
 "Invalid Form Key. Please refresh the page.",不正なフォームキーです。ページを再読み込みしてください。,module,Magento_Backend
 "You entered an invalid Secret Key. Please refresh the page.",不正な秘密鍵が入力されました。画面を再読み込みしてください。,module,Magento_Backend
-"Invalid security or form key. Please refresh the page.","Invalid security or form key. Please refresh the page.",module,Magento_Backend
+"Invalid security or form key. Please refresh the page.",不正なセキュリティまたはフォームキーです。ページを再読み込みしてください。,module,Magento_Backend
 "Cache Storage Management",キャッシュストレージ管理,module,Magento_Backend
 "Flush Magento Cache",Magentoのキャッシュをクリアする,module,Magento_Backend
 "The cache storage may contain additional data. Are you sure that you want to flush it?",cacheストレージは追加情報を含んでいるかもしれません。本当に削除しますか？,module,Magento_Backend
@@ -546,7 +546,7 @@ Stores,店舗,module,Magento_Backend
 Home,ホーム,module,Magento_Backend
 Reset,リセット,module,Magento_Backend
 "Are you sure you want to do this?",実行してもよろしいですか？,module,Magento_Backend
-label,label,module,Magento_Backend
+label,ラベル,module,Magento_Backend
 "Add New Image",新規画像の追加,module,Magento_Backend
 "Export block for grid %1 is not defined","グリッド %1 のためのエクスポートブロックは定義されていません",module,Magento_Backend
 "Reset Filter",リセット,module,Magento_Backend
@@ -564,13 +564,13 @@ To,終了,module,Magento_Backend
 "Invalid export type supplied for grid export block",不正なエクスポートタイプがグリッドエクスポートブロックに使われました,module,Magento_Backend
 Export,エクスポート,module,Magento_Backend
 "Please correct the column format and try again.",列のフォーマットを正してから再度お試しください,module,Magento_Backend
-"An item needs to be selected. Select and try again.","An item needs to be selected. Select and try again.",module,Magento_Backend
+"An item needs to be selected. Select and try again.",アイテムを選択する必要があります。選択してもう一度やり直してください。,module,Magento_Backend
 Submit,送信,module,Magento_Backend
 "Unknown block type",不明なブロックタイプ,module,Magento_Backend
 "Please correct the tab configuration and try again. Tab Id should be not empty",タブの設定を修正して再度お試しください。タブIDは空ではいけません。,module,Magento_Backend
 "Please correct the tab configuration and try again.",タブのコンフィグレーションを修正してから再度お試しください,module,Magento_Backend
 "You have logged out.",ログアウトしました。,module,Magento_Backend
-"These cache type(s) don't exist: %1","These cache type(s) don't exist: %1",module,Magento_Backend
+"These cache type(s) don't exist: %1","これらのキャッシュタイプは存在しません： %1",module,Magento_Backend
 "The image cache was cleaned.",画像キャッシュをクリアしました。,module,Magento_Backend
 "An error occurred while clearing the image cache.",画像cacheの消去中に問題が発生しました,module,Magento_Backend
 "The JavaScript/CSS cache has been cleaned.",JavaScript/CSSキャッシュをクリアしました。,module,Magento_Backend
@@ -639,15 +639,15 @@ New,新規,module,Magento_Backend
 YTD,1年間,module,Magento_Backend
 2YTD,2年間,module,Magento_Backend
 "Authentication storage is incorrect.",権限の保管が不正です。,module,Magento_Backend
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Backend
-"An authentication error occurred. Verify and try again.","An authentication error occurred. Verify and try again.",module,Magento_Backend
-"The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.","The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.",module,Magento_Backend
-"The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.","The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.",module,Magento_Backend
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",ログイン情報が正しくないか、あなたのアカウントは一時的に無効になっています。しばらく待ってやり直してください。,module,Magento_Backend
+"An authentication error occurred. Verify and try again.",認証エラーが起きました。やり直してください。,module,Magento_Backend
+"The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.",管理者のセッション有効期限が不正です。有効期限は31536000秒(1年)またはそれ以下で設定してください。,module,Magento_Backend
+"The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.",管理者セッション有効期限が不正です。60秒以上の期限を設定してください。,module,Magento_Backend
 Order,注文,module,Magento_Backend
 "Order #%1","Order #%1",module,Magento_Backend
-"Save &amp; Continue","Save &amp; Continue",module,Magento_Backend
-"Save &amp; Close","Save &amp; Close",module,Magento_Backend
-"Save &amp; New","Save &amp; New",module,Magento_Backend
+"Save &amp; Continue",保存して続ける,module,Magento_Backend
+"Save &amp; Close",保存して閉じる,module,Magento_Backend
+"Save &amp; New",保存して新規作成,module,Magento_Backend
 Edit,編集,module,Magento_Backend
 "Sorry, you need permissions to view this content.",申し訳ありません、このコンテンツを表示するには権限が必要です。,module,Magento_Backend
 "Next steps",次のステップ,module,Magento_Backend
@@ -775,10 +775,10 @@ Advanced,高度な設定,module,Magento_Backend
 Developer,開発者向け,module,Magento_Backend
 Debug,デバッグ,module,Magento_Backend
 "Enabled Template Path Hints for Storefront",ストアフロントでテンプレートパスヒントを有効,module,Magento_Backend
-"Enable Hints for Storefront with URL Parameter","Enable Hints for Storefront with URL Parameter",module,Magento_Backend
-"Parameter Value","Parameter Value",module,Magento_Backend
+"Enable Hints for Storefront with URL Parameter",ストアフロント用のヒントをURLパラメータ付きで有効にする,module,Magento_Backend
+"Parameter Value",パラメータの値,module,Magento_Backend
 "Enabled Template Path Hints for Admin",管理者ページでテンプレートパスヒントを有効,module,Magento_Backend
-"Add Block Class Type to Hints","Add Block Class Type to Hints",module,Magento_Backend
+"Add Block Class Type to Hints",ヒントにブロッククラスの型を追加,module,Magento_Backend
 "Template Settings",テンプレート設定,module,Magento_Backend
 "Allow Symlinks",シンボリックリンクを許可する,module,Magento_Backend
 "Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.",警告!この機能を稼働環境で有効にすることは推奨されていません。なぜなら情報漏えい事故の恐れがあるからです。,module,Magento_Backend
@@ -798,7 +798,7 @@ CSS Settings""",module,Magento_Backend
 "Minify CSS Files",CSSファイルを圧縮する,module,Magento_Backend
 "Image Processing Settings",画像プロセス設定,module,Magento_Backend
 "Image Adapter",画像アダプター,module,Magento_Backend
-"When the adapter was changed, please flush Catalog Images Cache.","When the adapter was changed, please flush Catalog Images Cache.",module,Magento_Backend
+"When the adapter was changed, please flush Catalog Images Cache.",アダプタが変更されたら、画像キャッシュをフラッシュしてください。,module,Magento_Backend
 "Static Files Settings",スタティックファイル設定,module,Magento_Backend
 "Sign Static Files",スタティックファイルに署名,module,Magento_Backend
 "Country Options",国オプション,module,Magento_Backend
@@ -831,12 +831,12 @@ Host,ホスト,module,Magento_Backend
 "Port (25)","ポート (25)",module,Magento_Backend
 "Set Return-Path",Return-Pathを設定する,module,Magento_Backend
 "Return-Path Email",Return-Pathメールアドレス,module,Magento_Backend
-"Images Upload Configuration","Images Upload Configuration",module,Magento_Backend
-"Enable Frontend Resize","Enable Frontend Resize",module,Magento_Backend
-"Maximum Width","Maximum Width",module,Magento_Backend
-"Maximum allowed width for uploaded image.","Maximum allowed width for uploaded image.",module,Magento_Backend
-"Maximum Height","Maximum Height",module,Magento_Backend
-"Maximum allowed height for uploaded image.","Maximum allowed height for uploaded image.",module,Magento_Backend
+"Images Upload Configuration",画像アップロード設定,module,Magento_Backend
+"Enable Frontend Resize",フロントエンドでのリサイズを有効にする,module,Magento_Backend
+"Maximum Width",最大幅,module,Magento_Backend
+"Maximum allowed width for uploaded image.",アップロードされた画像に許可する最大幅,module,Magento_Backend
+"Maximum Height",最大高さ,module,Magento_Backend
+"Maximum allowed height for uploaded image.",アップロードされた画像に許可する最大高さ,module,Magento_Backend
 Admin,管理者,module,Magento_Backend
 "Admin User Emails",管理者メールアドレス,module,Magento_Backend
 "Forgot Password Email Template",パスワードリマインダメールテンプレート,module,Magento_Backend
