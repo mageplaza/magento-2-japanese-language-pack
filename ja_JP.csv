@@ -2140,8 +2140,8 @@ Next,次,module,Magento_Catalog
 "Check items to add to the cart or",チェックした商品をカートに入れるか,module,Magento_Catalog
 "select all",全て選択,module,Magento_Catalog
 "Items %1-%2 of %3",%3の商品%1-%2,module,Magento_Catalog
-"%1 Item","%1 注文",module,Magento_Catalog
-"%1 Items","%1 注文",module,Magento_Catalog
+"%1 Item","%1 件",module,Magento_Catalog
+"%1 Items","%1 件",module,Magento_Catalog
 Show,表示,module,Magento_Catalog
 "per page",件,module,Magento_Catalog
 "Sort By",並び順,module,Magento_Catalog
