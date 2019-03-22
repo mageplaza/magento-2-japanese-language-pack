@@ -19,7 +19,7 @@ Read more [Magento 2 Japanese Language Pack](https://www.mageplaza.com/magento-2
 
 This is status of Japanese Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](http://progressed.io/bar/92?title=translated)
+![language pack](http://progressed.io/bar/94?title=translated)
 
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
@@ -121,7 +121,7 @@ Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/
 
 See this screenshot
 
-![Japanese pack](https://i.imgur.com/tS668yC.png)
+![Japanese pack](https://cdn2.mageplaza.com/media/general2/tS668yC.png)
 
 #### Step 2: Flush cache
 
