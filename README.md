@@ -117,11 +117,13 @@ To download and install Japanese pack manually, you have to access to your serve
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/ja_jp/ja_JP.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/ja_jp/`
 
-See this screenshot
+See this screenshot:
 
 ![Japanese pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **ja_jp**
 
 #### Step 2: Flush cache
 
