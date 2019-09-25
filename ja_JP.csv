@@ -16222,73 +16222,73 @@ Priority Mail Small Flat Rate Box Hold For Pickup""",module,Magento_Usps
 "Transaction has been canceled","トランザクションはキャンセルされました",module,Magento_Worldpay
 "Transaction has been declined","トランザクションは却下されました",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","レスポンスの種類が正しくありません。確認して再度お試し下さい。",module,Magento_Worldpay
-"Summary","レビュータイトル",theme,frontend/Magento/blank
-"Account Dashboard","アカウントダッシュボード",theme,frontend/Magento/blank
-"Account Information","アカウント情報",theme,frontend/Magento/blank
-"Address Book","アドレス帳",theme,frontend/Magento/blank
-"Menu","メニュー",theme,frontend/Magento/blank
-"Account","アカウント",theme,frontend/Magento/blank
-"Settings","設定",theme,frontend/Magento/blank
-"Now Shopping by","現在買い物をしている人",theme,frontend/Magento/luma
-"Previous","前",theme,frontend/Magento/luma
-"Remove","削除",theme,frontend/Magento/luma
-"Remove This Item","この商品を削除する",theme,frontend/Magento/luma
-"Shop By","閲覧中",theme,frontend/Magento/luma
-"Clear All","すべてクリア",theme,frontend/Magento/luma
-"Shopping Options","絞り込み条件",theme,frontend/Magento/luma
-"Welcome to %store_name","%store_name へようこそ",theme,frontend/Magento/luma
-"%name,","%name,",theme,frontend/Magento/luma
-"Welcome to %store_name.","ようこそ %store_name へ",theme,frontend/Magento/luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","サイトにサインインするには、これらの身分証明をチェックアウト時か <a href=""%customer_url"">マイアカウント</a> ページにて使用してください:",theme,frontend/Magento/luma
-"Email:","メール:",theme,frontend/Magento/luma
-"Password:","パスワード:",theme,frontend/Magento/luma
-"Password you set when creating account","アカウント作成時に設定したパスワード",theme,frontend/Magento/luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","パスワードをお忘れですか？<a href=""%reset_url"">ここ</a>をクリックしてリセットしてください。",theme,frontend/Magento/luma
-"When you sign in to your account, you will be able to:","アカウントにサインインすると以下のことができます:",theme,frontend/Magento/luma
-"Quick Checkout","クイックチェックアウト",theme,frontend/Magento/luma
-"Proceed through checkout faster","チェックアウトを通して早く処理する",theme,frontend/Magento/luma
-"Order Status","注文ステータス",theme,frontend/Magento/luma
-"Check the status of orders","注文のステータスを確認",theme,frontend/Magento/luma
-"Manage Addresses","住所管理",theme,frontend/Magento/luma
-"Store alternative addresses","別住所を保管",theme,frontend/Magento/luma
-"For shipping to multiple family members and friends","複数の家族メンバーと友達のために",theme,frontend/Magento/luma
-"Order History","注文履歴",theme,frontend/Magento/luma
-"View past orders","過去の注文を表示",theme,frontend/Magento/luma
-"Footer","フッター",theme,frontend/Magento/luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>会社概要</a>",theme,frontend/Magento/luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>カスタマーサービス</a>",theme,frontend/Magento/luma
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","営業時間:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
-"Credit memo for your %store_name order","%store_nameオーダーのクレジットメモ",theme,frontend/Magento/luma
-"Thank you for your order from %store_name.","%store_nameからの注文ありがとうございます。",theme,frontend/Magento/luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","<a href=""%account_url"">アカウントのログイン</a>することによってあなたの注文のステータスを確認できます。",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","注文について質問がある場合は、 <a href=""mailto:%store_email"">%store_email</a>にEメールをお送りください。",theme,frontend/Magento/luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","注文#%order_idのあなたのクレジットメモ#%creditmemo_id",theme,frontend/Magento/luma
-"Billing Info","請求情報",theme,frontend/Magento/luma
-"Shipping Info","送付情報",theme,frontend/Magento/luma
-"Payment Method","お支払方法",theme,frontend/Magento/luma
-"Shipping Method","お届け方法",theme,frontend/Magento/luma
-"Update to your %store_name credit memo","%store_name クレジットメモへの更新",theme,frontend/Magento/luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","あなたの注文#%increment_idはステータス<strong>%order_status</strong>で更新されました。",theme,frontend/Magento/luma
-"Invoice for your %store_name order","%store_nameオーダーの請求書",theme,frontend/Magento/luma
-"Your Invoice #%invoice_id for Order #%order_id","注文#%order_idのあなたの請求書#%invoice_id",theme,frontend/Magento/luma
-"Update to your %store_name invoice","%store_name 請求書への更新",theme,frontend/Magento/luma
-"Your %store_name order confirmation","あなたの %store_name 注文の確認",theme,frontend/Magento/luma
-"%customer_name,","%customer_name,",theme,frontend/Magento/luma
-"Once your package ships we will send you a tracking number.","荷物が配送された後に追跡番号をお送りします。",theme,frontend/Magento/luma
-"Your Order <span class=""no-link"">#%increment_id</span>","あなたの注文 <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
-"Placed on <span class=""no-link"">%created_at</span>","手配された日は <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
-"Update to your %store_name order","%store_name 注文を更新",theme,frontend/Magento/luma
-"Your %store_name order has shipped","%store_name 注文が出荷されました",theme,frontend/Magento/luma
-"Your shipping confirmation is below. Thank you again for your business.","配送確認は以下です。お買い上げありがとうございました。",theme,frontend/Magento/luma
-"Your Shipment #%shipment_id for Order #%order_id","注文#%order_idのあなたの配送番号 #%shipment_id""",theme,frontend/Magento/luma
-"Update to your %store_name shipment","%store_name 出荷データへの更新",theme,frontend/Magento/luma
-"Account Dashboard","アカウントダッシュボード",theme,frontend/Magento/luma
-"Address Book","アドレス帳",theme,frontend/Magento/luma
-"Account Information","アカウント情報",theme,frontend/Magento/luma
-"About Us","我々について",theme,frontend/Magento/luma
-"Customer Service","顧客サービス",theme,frontend/Magento/luma
-"My Account","マイアカウント",theme,frontend/Magento/luma
+"Summary","レビュータイトル",theme,frontend\Magento\blank
+"Account Dashboard","アカウントダッシュボード",theme,frontend\Magento\blank
+"Account Information","アカウント情報",theme,frontend\Magento\blank
+"Address Book","アドレス帳",theme,frontend\Magento\blank
+"Menu","メニュー",theme,frontend\Magento\blank
+"Account","アカウント",theme,frontend\Magento\blank
+"Settings","設定",theme,frontend\Magento\blank
+"Now Shopping by","現在買い物をしている人",theme,frontend\Magento\luma
+"Previous","前",theme,frontend\Magento\luma
+"Remove","削除",theme,frontend\Magento\luma
+"Remove This Item","この商品を削除する",theme,frontend\Magento\luma
+"Shop By","閲覧中",theme,frontend\Magento\luma
+"Clear All","すべてクリア",theme,frontend\Magento\luma
+"Shopping Options","絞り込み条件",theme,frontend\Magento\luma
+"Welcome to %store_name","%store_name へようこそ",theme,frontend\Magento\luma
+"%name,","%name,",theme,frontend\Magento\luma
+"Welcome to %store_name.","ようこそ %store_name へ",theme,frontend\Magento\luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","サイトにサインインするには、これらの身分証明をチェックアウト時か <a href=""%customer_url"">マイアカウント</a> ページにて使用してください:",theme,frontend\Magento\luma
+"Email:","メール:",theme,frontend\Magento\luma
+"Password:","パスワード:",theme,frontend\Magento\luma
+"Password you set when creating account","アカウント作成時に設定したパスワード",theme,frontend\Magento\luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","パスワードをお忘れですか？<a href=""%reset_url"">ここ</a>をクリックしてリセットしてください。",theme,frontend\Magento\luma
+"When you sign in to your account, you will be able to:","アカウントにサインインすると以下のことができます:",theme,frontend\Magento\luma
+"Quick Checkout","クイックチェックアウト",theme,frontend\Magento\luma
+"Proceed through checkout faster","チェックアウトを通して早く処理する",theme,frontend\Magento\luma
+"Order Status","注文ステータス",theme,frontend\Magento\luma
+"Check the status of orders","注文のステータスを確認",theme,frontend\Magento\luma
+"Manage Addresses","住所管理",theme,frontend\Magento\luma
+"Store alternative addresses","別住所を保管",theme,frontend\Magento\luma
+"For shipping to multiple family members and friends","複数の家族メンバーと友達のために",theme,frontend\Magento\luma
+"Order History","注文履歴",theme,frontend\Magento\luma
+"View past orders","過去の注文を表示",theme,frontend\Magento\luma
+"Footer","フッター",theme,frontend\Magento\luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>会社概要</a>",theme,frontend\Magento\luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>カスタマーサービス</a>",theme,frontend\Magento\luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend\Magento\luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","営業時間:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend\Magento\luma
+"Credit memo for your %store_name order","%store_nameオーダーのクレジットメモ",theme,frontend\Magento\luma
+"Thank you for your order from %store_name.","%store_nameからの注文ありがとうございます。",theme,frontend\Magento\luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","<a href=""%account_url"">アカウントのログイン</a>することによってあなたの注文のステータスを確認できます。",theme,frontend\Magento\luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","注文について質問がある場合は、 <a href=""mailto:%store_email"">%store_email</a>にEメールをお送りください。",theme,frontend\Magento\luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","注文#%order_idのあなたのクレジットメモ#%creditmemo_id",theme,frontend\Magento\luma
+"Billing Info","請求情報",theme,frontend\Magento\luma
+"Shipping Info","送付情報",theme,frontend\Magento\luma
+"Payment Method","お支払方法",theme,frontend\Magento\luma
+"Shipping Method","お届け方法",theme,frontend\Magento\luma
+"Update to your %store_name credit memo","%store_name クレジットメモへの更新",theme,frontend\Magento\luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","あなたの注文#%increment_idはステータス<strong>%order_status</strong>で更新されました。",theme,frontend\Magento\luma
+"Invoice for your %store_name order","%store_nameオーダーの請求書",theme,frontend\Magento\luma
+"Your Invoice #%invoice_id for Order #%order_id","注文#%order_idのあなたの請求書#%invoice_id",theme,frontend\Magento\luma
+"Update to your %store_name invoice","%store_name 請求書への更新",theme,frontend\Magento\luma
+"Your %store_name order confirmation","あなたの %store_name 注文の確認",theme,frontend\Magento\luma
+"%customer_name,","%customer_name,",theme,frontend\Magento\luma
+"Once your package ships we will send you a tracking number.","荷物が配送された後に追跡番号をお送りします。",theme,frontend\Magento\luma
+"Your Order <span class=""no-link"">#%increment_id</span>","あなたの注文 <span class=""no-link"">#%increment_id</span>",theme,frontend\Magento\luma
+"Placed on <span class=""no-link"">%created_at</span>","手配された日は <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
+"Update to your %store_name order","%store_name 注文を更新",theme,frontend\Magento\luma
+"Your %store_name order has shipped","%store_name 注文が出荷されました",theme,frontend\Magento\luma
+"Your shipping confirmation is below. Thank you again for your business.","配送確認は以下です。お買い上げありがとうございました。",theme,frontend\Magento\luma
+"Your Shipment #%shipment_id for Order #%order_id","注文#%order_idのあなたの配送番号 #%shipment_id""",theme,frontend\Magento\luma
+"Update to your %store_name shipment","%store_name 出荷データへの更新",theme,frontend\Magento\luma
+"Account Dashboard","アカウントダッシュボード",theme,frontend\Magento\luma
+"Address Book","アドレス帳",theme,frontend\Magento\luma
+"Account Information","アカウント情報",theme,frontend\Magento\luma
+"About Us","我々について",theme,frontend\Magento\luma
+"Customer Service","顧客サービス",theme,frontend\Magento\luma
+"My Account","マイアカウント",theme,frontend\Magento\luma
 "Backup options","バックアップオプション",lib,web
 "Warning","警告",lib,web
 "Cancel","キャンセル",lib,web
